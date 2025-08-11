@@ -1,4 +1,4 @@
-# 🕶️ Cybersecurity & AI Enthusiast
+#  Hi there👋, It's me Tamilselvan 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+%26+AI+Explorer;Full+Stack+Developer;Machine+Learning+Practitioner;Ethical+Hacker)
 
