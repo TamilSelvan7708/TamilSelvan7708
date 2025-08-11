@@ -106,7 +106,7 @@ while(innovation) {
     contribute_to_community();
 }
 ```
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Tamilselvan_A_K?theme=dark&font=Oxygen&ext=heatmap)
 <div align="center">
   
 **🔐 "Security is not a product, but a process" 🔐**
