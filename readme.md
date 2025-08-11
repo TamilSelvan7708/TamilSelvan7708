@@ -42,11 +42,12 @@
 </div>
 
 ---
+
+
 ## 🏆 **Key Achievements**
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 20px">
 
-<!-- Achievement Card 1 -->
 <div style="
   background: linear-gradient(145deg, #0a0f17, #111827);
   border-radius: 12px;
@@ -68,7 +69,6 @@
   </ul>
 </div>
 
-<!-- Achievement Card 2 -->
 <div style="
   background: linear-gradient(145deg, #0a0f17, #111827);
   border-radius: 12px;
@@ -94,13 +94,7 @@
 </div>
 
 
-javascript
-const currentGoals = {
-    learning: ["Advanced Penetration Testing", "AI Security"],
-    building: ["Secure Web Applications", "ML Detection Systems"],
-    contributing: "Open Source Security Projects"
-};
-```
+
 
 ## 📊 GitHub Stats
 
