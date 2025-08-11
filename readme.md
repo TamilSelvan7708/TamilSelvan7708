@@ -3,54 +3,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;Cybersecurity+%26+AI+Explorer;Full+Stack+Developer;Machine+Learning+Practitioner;Ethical+Hacker)
 
 ---
-
-<!-- HACKER-THEMED GITHUB PROFILE README -->
-
-<h1 align="center" style="color:#00FF00;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=…Your+Cyber+Adventure+Begins…" alt="typing animation" />
-</h1>
-
----
-
-##  Skills & Tools
-
-<p align="center">
-  <img src="assets/icons/python.svg" alt="Python" width="50" />  
-  <img src="assets/icons/django.svg" alt="Django" width="50" />  
-  <img src="assets/icons/fastapi.svg" alt="FastAPI" width="50" />  
-  <img src="assets/icons/flask.svg" alt="Flask" width="50" />  
-  <img src="assets/icons/html.svg" alt="HTML" width="50" />  
-  <img src="assets/icons/css.svg" alt="CSS" width="50" />  
-  <img src="assets/icons/javascript.svg" alt="JavaScript" width="50" />  
-  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="50" />  
-  <img src="assets/icons/ethical-hacking.svg" alt="Ethical Hacking" width="50" />  
-  <img src="assets/icons/penetration-testing.svg" alt="Penetration Testing" width="50" />  
-  <img src="assets/icons/burp-suite.svg" alt="Burp Suite" width="50" />  
-  <img src="assets/icons/metasploit.svg" alt="Metasploit" width="50" />  
-  <img src="assets/icons/git.svg" alt="Git" width="50" />  
-  <img src="assets/icons/github.svg" alt="GitHub" width="50" />  
-  <img src="assets/icons/java.svg" alt="Java" width="50" />  
-  <img src="assets/icons/cpp.svg" alt="C++" width="50" />  
-  <img src="assets/icons/c.svg" alt="C" width="50" />  
-</p>
-
----
-
-##  Projects & Achievements
-
-(... your projects table and achievements go here ...)
-
----
-
-###  GitHub Stats (in radical theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
----
-
+🛠️ Tech Stack
+📜 Programming Languages
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> </p>
+🌐 Web Development
+<p align="left"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> </p>
+🔒 Cybersecurity & Pentesting
+<p align="left"> <img src="https://img.shields.io/badge/Ethical%20Hacking-2C2D72?style=for-the-badge&logo=hackerone&logoColor=white" alt="Ethical Hacking" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /> </p>
+⚙️ DevOps & Tools
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
 ###  Hacking Vibes
 
 <p align="center">
