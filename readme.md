@@ -21,54 +21,46 @@
 ---
 
 *Leave a trace on your terminal… not your secrets.*  
+<p align="center">
+  <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="600" style="border-radius: 10px; box-shadow: 0 0 20px #00ffaa80"/>
+</p>
 
+---
 
-## 💼 Professional Experience
+<h3 align="center"> 
+  <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
+  <span style="color: #00ffaa; text-shadow: 0 0 8px #00ffaa80"><em>Leave traces in code, not in logs</em></span>
+  <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
+</h3>
 
-### 🚀 Freelance Projects
-```diff
-+ E-commerce Web Application (2025)
-! Tech: Django, HTML, CSS, JavaScript, SQLite
-# Designed and developed full-featured e-commerce platform
+---
 
-+ Company Website Development (2025)
-! Tech: HTML, CSS, JavaScript
-# Built professional website to showcase services
+## 🔥 **Professional Experience**
 
-+ Abacus Training Platform (2023-2024)
-! Features: 8 levels, dynamic questions, time challenges
-```
+### **🚀 Freelance Projects**
+<div align="center">
 
-## 🏆 Key Achievements
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **E-commerce Platform** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) | Payment gateway integration, 300+ active users |
+| **Cybersecurity Portal** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Real-time threat dashboard |
+| **Abacus Trainer** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | AI difficulty adjustment |
 
-```bash
-# 1st Place - Code Craft 24
-echo "Developed AI system for food spoilage detection"
+</div>
 
-# 2nd Place - APJ Kalam Innovation
-echo "Child safety recognition project"
-```
+---
 
-## 🔥 Recent Projects
-
-```python
-projects = {
-    "Food Spoilage Detection": "Image classification system using ML",
-    "Advanced Antivirus": "Malware detection with VirusTotal API integration",
-    "Abacus Platform": "Interactive learning system with progress tracking"
-}
-
-for project, description in projects.items():
-    print(f"[{project}] -> {description}")
-```
-
-## 📜 Certifications
+## 🏆 **Key Achievements**
+<div align="center" style="background: #0d1117; border-radius: 10px; padding: 15px; border-left: 4px solid #00ffaa">
 
 ```diff
-+ HackerRank Certified: Python | Java | Problem Solving
-+ Cybernaut Certified: Python | C++ | Java
-```
+# 🏆 Code Craft 24 (1st Place)
++ Food spoilage detection using CNN
+! Accuracy: 94.7% (F1-score)
 
+# 🥈 APJ Kalam Innovation Award
++ Child safety wearable prototype
+! Real-time GPS + SOS alerts
 ## 🎯 Current Focus
 
 ```javascript
