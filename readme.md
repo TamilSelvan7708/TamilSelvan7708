@@ -42,20 +42,58 @@
 </div>
 
 ---
-
 ## 🏆 **Key Achievements**
-<div align="center" style="background: #0d1117; border-radius: 10px; padding: 15px; border-left: 4px solid #00ffaa">
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 20px">
+
+<!-- Achievement Card 1 -->
+<div style="
+  background: linear-gradient(145deg, #0a0f17, #111827);
+  border-radius: 12px;
+  padding: 20px;
+  width: 300px;
+  border-left: 4px solid #00ffaa;
+  box-shadow: 0 4px 20px rgba(0, 255, 170, 0.15);
+">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px">
+    <img src="https://img.icons8.com/fluency/48/00ffaa/trophy.png" width="36"/>
+    <h3 style="color: #00ffaa; margin: 0">Code Craft 24</h3>
+    <span style="background: #00ffaa; color: #0d1117; padding: 2px 8px; border-radius: 20px; font-weight: bold">🥇 1st Place</span>
+  </div>
+  
+  <ul style="color: #c9d1d9; padding-left: 20px; margin: 0">
+    <li>Food spoilage detection using CNN</li>
+    <li><span style="color: #00ffaa">✓</span> Python, TensorFlow, OpenCV</li>
+    <li><span style="color: #00ffaa">✓</span> 94.7% prediction accuracy</li>
+  </ul>
+</div>
+
+<!-- Achievement Card 2 -->
+<div style="
+  background: linear-gradient(145deg, #0a0f17, #111827);
+  border-radius: 12px;
+  padding: 20px;
+  width: 300px;
+  border-left: 4px solid #00ffaa;
+  box-shadow: 0 4px 20px rgba(0, 255, 170, 0.15);
+">
+  <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px">
+    <img src="https://img.icons8.com/fluency/48/00ffaa/prize.png" width="36"/>
+    <h3 style="color: #00ffaa; margin: 0">APJ Kalam Award</h3>
+    <span style="background: #00ffaa; color: #0d1117; padding: 2px 8px; border-radius: 20px; font-weight: bold">🥈 Finalist</span>
+  </div>
+  
+  <ul style="color: #c9d1d9; padding-left: 20px; margin: 0">
+    <li>Child safety recognition system</li>
+    <li><span style="color: #00ffaa">✓</span> Real-time alert system</li>
+    <li><span style="color: #00ffaa">✓</span> 98% detection accuracy</li>
+  </ul>
+</div>
+
+  </div>
+</div>
 
 
-```diff
-# 🏆 Code Craft 24 (1st Place)
-+ Food spoilage detection using CNN
-! Python, TensorFlow, OpenCV
-
-# 🥈 APJ Kalam Innovation Award
-+ Child safety recognition system
-! Real-time alerts with 98% accuracy
-```
 javascript
 const currentGoals = {
     learning: ["Advanced Penetration Testing", "AI Security"],
