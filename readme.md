@@ -12,50 +12,35 @@
 <p align="left"> <img src="https://img.shields.io/badge/Ethical%20Hacking-2C2D72?style=for-the-badge&logo=hackerone&logoColor=white" alt="Ethical Hacking" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /> </p>
 ⚙️ DevOps & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
-###Hacking Vibes
+### Hacking Vibes
 
 <p align="center">
   <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/hacker-hacking.gif" width="600"/>
 </p>
-
----
 <p align="center">
-  <img src="https://media.tenor.com/S8rZ5Zv9XcUAAAAC/cyberpunk-hacker.gif" width="600" style="border-radius: 10px; border: 2px solid #6e40c9"/>
+  <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="600" style="border-radius: 10px; box-shadow: 0 0 20px #00ffaa80"/>
 </p>
 
 ---
 
 <h3 align="center"> 
-  <img src="https://img.icons8.com/fluency/48/6e40c9/binary-code.png"/> 
-  <span style="color: #6e40c9; text-shadow: 0 0 8px #6e40c980"><em>Building digital fortresses</em></span>
-  <img src="https://img.icons8.com/fluency/48/6e40c9/binary-code.png"/> 
+  <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
+  <span style="color: #00ffaa; text-shadow: 0 0 8px #00ffaa80"><em>Leave traces in code, not in logs</em></span>
+  <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
 </h3>
 
 ---
 
-## 🚀 **Project Showcase**
-
-### 🔮 E-Commerce Platform
-<div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin: 10px 0; border-left: 4px solid #6e40c9">
-  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Frontend](https://img.shields.io/badge/HTML5%2FCSS3%2FJS-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  ```python
-  Features:
-  - Payment gateway integration
-  - User authentication system
-  - Real-time inventory tracking## 🔥 **Professional Experience**
+## 🔥 **Professional Experience**
 
 ### **🚀 Freelance Projects**
 <div align="center">
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| **E-commerce Platform** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) | Payment gateway integration, 300+ active users |
-| **Cybersecurity Portal** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Real-time threat dashboard |
-| **Abacus Trainer** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | AI difficulty adjustment |
+| **E-commerce Platform** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Full-featured shopping cart, payment integration |
+| **Abacus Trainer** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 8 difficulty levels, progress tracking |
+| **STEM Info Tech** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Responsive design, 95% Lighthouse score |
 
 </div>
 
@@ -67,13 +52,11 @@
 ```diff
 # 🏆 Code Craft 24 (1st Place)
 + Food spoilage detection using CNN
-! Accuracy: 94.7% (F1-score)
+! Python, TensorFlow, OpenCV
 
 # 🥈 APJ Kalam Innovation Award
-+ Child safety wearable prototype
-! Real-time GPS + SOS alerts
-## 🎯 Current Focus
-
++ Child safety recognition system
+! Real-time alerts with 98% accuracy
 ```javascript
 const currentGoals = {
     learning: ["Advanced Penetration Testing", "AI Security"],
