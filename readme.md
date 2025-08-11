@@ -4,24 +4,63 @@
 
 ---
 
-### 🔐 Security & Development
-```python
-skills = {
-    "web_penetration_testing": "Advanced",
-    "django_full_stack": "Expert",
-    "languages": ["Python", "Java", "HTML/CSS", "JavaScript"],
-    "problem_solving": "LeetCode 300+ problems solved"
-}
-```
+<!-- HACKER-THEMED GITHUB PROFILE README -->
 
-### 🤖 Artificial Intelligence
-```python
-ai_expertise = [
-    "Machine Learning",
-    "Image Classification", 
-    "AI-based Detection Systems"
-]
-```
+<h1 align="center" style="color:#00FF00;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=…Your+Cyber+Adventure+Begins…" alt="typing animation" />
+</h1>
+
+---
+
+##  Skills & Tools
+
+<p align="center">
+  <img src="assets/icons/python.svg" alt="Python" width="50" />  
+  <img src="assets/icons/django.svg" alt="Django" width="50" />  
+  <img src="assets/icons/fastapi.svg" alt="FastAPI" width="50" />  
+  <img src="assets/icons/flask.svg" alt="Flask" width="50" />  
+  <img src="assets/icons/html.svg" alt="HTML" width="50" />  
+  <img src="assets/icons/css.svg" alt="CSS" width="50" />  
+  <img src="assets/icons/javascript.svg" alt="JavaScript" width="50" />  
+  <img src="assets/icons/bootstrap.svg" alt="Bootstrap" width="50" />  
+  <img src="assets/icons/ethical-hacking.svg" alt="Ethical Hacking" width="50" />  
+  <img src="assets/icons/penetration-testing.svg" alt="Penetration Testing" width="50" />  
+  <img src="assets/icons/burp-suite.svg" alt="Burp Suite" width="50" />  
+  <img src="assets/icons/metasploit.svg" alt="Metasploit" width="50" />  
+  <img src="assets/icons/git.svg" alt="Git" width="50" />  
+  <img src="assets/icons/github.svg" alt="GitHub" width="50" />  
+  <img src="assets/icons/java.svg" alt="Java" width="50" />  
+  <img src="assets/icons/cpp.svg" alt="C++" width="50" />  
+  <img src="assets/icons/c.svg" alt="C" width="50" />  
+</p>
+
+---
+
+##  Projects & Achievements
+
+(... your projects table and achievements go here ...)
+
+---
+
+###  GitHub Stats (in radical theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+###  Hacking Vibes
+
+<p align="center">
+  <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/hacker-hacking.gif" width="600"/>
+</p>
+
+---
+
+*Leave a trace on your terminal… not your secrets.*  
+
 
 ## 💼 Professional Experience
 
