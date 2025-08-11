@@ -12,16 +12,13 @@
 <p align="left"> <img src="https://img.shields.io/badge/Ethical%20Hacking-2C2D72?style=for-the-badge&logo=hackerone&logoColor=white" alt="Ethical Hacking" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /> </p>
 ⚙️ DevOps & Tools
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
+
 ### Hacking Vibes
 
 <p align="center">
   <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/hacker-hacking.gif" width="600"/>
 </p>
-<p align="center">
-  <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="600" style="border-radius: 10px; box-shadow: 0 0 20px #00ffaa80"/>
-</p>
 
----
 
 <h3 align="center"> 
   <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
@@ -49,6 +46,7 @@
 ## 🏆 **Key Achievements**
 <div align="center" style="background: #0d1117; border-radius: 10px; padding: 15px; border-left: 4px solid #00ffaa">
 
+
 ```diff
 # 🏆 Code Craft 24 (1st Place)
 + Food spoilage detection using CNN
@@ -57,7 +55,8 @@
 # 🥈 APJ Kalam Innovation Award
 + Child safety recognition system
 ! Real-time alerts with 98% accuracy
-```javascript
+```
+javascript
 const currentGoals = {
     learning: ["Advanced Penetration Testing", "AI Security"],
     building: ["Secure Web Applications", "ML Detection Systems"],
