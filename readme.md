@@ -43,11 +43,11 @@
 
 ---
 
-
 ## 🏆 **Key Achievements**
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top: 20px">
 
+<!-- Achievement Card 1 -->
 <div style="
   background: linear-gradient(145deg, #0a0f17, #111827);
   border-radius: 12px;
@@ -69,6 +69,7 @@
   </ul>
 </div>
 
+<!-- Achievement Card 2 -->
 <div style="
   background: linear-gradient(145deg, #0a0f17, #111827);
   border-radius: 12px;
@@ -93,32 +94,7 @@
   </div>
 </div>
 
-
-
-
-## 📊 GitHub Stats
-
-```python
-def get_stats():
-    return {
-        "languages_mastered": 5,
-        "projects_completed": 15,
-        "security_focus": True,
-        "ai_expertise": True
-    }
-```
-
 ---
-
-```c
-// Always learning, always hacking...
-while(innovation) {
-    learn_new_tech();
-    build_secure_systems();
-    solve_complex_problems();
-    contribute_to_community();
-}
-```
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Tamilselvan_A_K?theme=dark&font=Oxygen&ext=heatmap)
 <div align="center">
   
