@@ -19,23 +19,34 @@
 </p>
 
 ---
-
-*Leave a trace on your terminal… not your secrets.*  
 <p align="center">
-  <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="600" style="border-radius: 10px; box-shadow: 0 0 20px #00ffaa80"/>
+  <img src="https://media.tenor.com/S8rZ5Zv9XcUAAAAC/cyberpunk-hacker.gif" width="600" style="border-radius: 10px; border: 2px solid #6e40c9"/>
 </p>
 
 ---
 
 <h3 align="center"> 
-  <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
-  <span style="color: #00ffaa; text-shadow: 0 0 8px #00ffaa80"><em>Leave traces in code, not in logs</em></span>
-  <img src="https://img.icons8.com/fluency-systems-filled/48/00ffaa/lock.png"/> 
+  <img src="https://img.icons8.com/fluency/48/6e40c9/binary-code.png"/> 
+  <span style="color: #6e40c9; text-shadow: 0 0 8px #6e40c980"><em>Building digital fortresses</em></span>
+  <img src="https://img.icons8.com/fluency/48/6e40c9/binary-code.png"/> 
 </h3>
 
 ---
 
-## 🔥 **Professional Experience**
+## 🚀 **Project Showcase**
+
+### 🔮 E-Commerce Platform
+<div align="center" style="background: #161b22; padding: 20px; border-radius: 10px; margin: 10px 0; border-left: 4px solid #6e40c9">
+  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Frontend](https://img.shields.io/badge/HTML5%2FCSS3%2FJS-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  ```python
+  Features:
+  - Payment gateway integration
+  - User authentication system
+  - Real-time inventory tracking## 🔥 **Professional Experience**
 
 ### **🚀 Freelance Projects**
 <div align="center">
